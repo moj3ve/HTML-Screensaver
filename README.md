@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/Minh-Ton/HTML-Screensaver/raw/master/HTMLScreensaver/HTMLScreensaver/UI/thumbnail%402x.png">
 
-# HTML Screensaver
+# HTML Screensaver [WIP]
 
 With some basic HTML code, you can create your own macOS Screensaver!
 
@@ -48,4 +48,4 @@ With some basic HTML code, you can create your own macOS Screensaver!
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE.md for more detail. 
+- This project is licensed under the MIT License. See LICENSE.md for more detail. 
