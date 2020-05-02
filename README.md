@@ -38,10 +38,6 @@ With some basic HTML code, you can create your own macOS Screensaver!
 ```
 - The result: It just works! Playing YouTube video and interact with the screensaver directly to pause, play, skip,...!
 
-<p align="center">
- <img src="https://github.com/Minh-Ton/HTML-Screensaver/raw/master/HTMLScreensaverScreenshots/HTMLScreensaverRecord.gif">
-</p>
-
 ## Credits
 
 - Thanks to [burnsra](https://github.com/burnsra)'s [ScreenSaverTemplate](https://github.com/burnsra/ScreenSaverTemplate) which I used to create the Screensaver.
