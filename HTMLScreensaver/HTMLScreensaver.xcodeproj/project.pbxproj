@@ -40,7 +40,7 @@
 		00A739FE1FCF893900BBC9DD /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "~/Library/Screen Savers";
+			dstPath = "/Users/ford/Library/Screen Savers";
 			dstSubfolderSpec = 0;
 			files = (
 				00A739FF1FCF895A00BBC9DD /* HTMLScreensaver.saver in CopyFiles */,
@@ -248,7 +248,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1030;
-				ORGANIZATIONNAME = "Robert Burns";
+				ORGANIZATIONNAME = fordApps;
 				TargetAttributes = {
 					001185591FCE3A9D00D4766F = {
 						CreatedOnToolsVersion = 9.1;
