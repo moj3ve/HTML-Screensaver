@@ -2,7 +2,7 @@
 
 # HTML Screensaver [WIP]
 
-With some basic HTML code, you can create your own macOS Screensaver!
+With some basic HTML knowledge, you can create your own macOS Screensaver!
 
 ## Requirements
 
@@ -16,6 +16,12 @@ With some basic HTML code, you can create your own macOS Screensaver!
 - Playing YouTube Videos
 - Stream Music (No one does this on a screensaver)
 - Displaying your Notes
+
+Besides from just a HTML file, you can also use CSS for theming and JavaScript to make your screensaver more interactive. But make sure that you have an `index.html` file for the screensaver.
+
+## Limitations
+
+- This screensaver is based on Webkit, so the `<video> </video>` tag is not supported.
 
 ## Sample Screensaver
 
